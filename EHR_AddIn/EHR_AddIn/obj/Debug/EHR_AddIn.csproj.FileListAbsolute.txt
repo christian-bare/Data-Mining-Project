@@ -1,0 +1,12 @@
+C:\Users\cbare\source\repos\EHR_AddIn\EHR_AddIn\obj\Debug\EHR_AddIn.csprojAssemblyReference.cache
+C:\Users\cbare\source\repos\EHR_AddIn\EHR_AddIn\obj\Debug\EHR_AddIn.Properties.Resources.resources
+C:\Users\cbare\source\repos\EHR_AddIn\EHR_AddIn\obj\Debug\EHR_AddIn.Ribbon1.resources
+C:\Users\cbare\source\repos\EHR_AddIn\EHR_AddIn\obj\Debug\EHR_AddIn.csproj.GenerateResource.cache
+C:\Users\cbare\source\repos\EHR_AddIn\EHR_AddIn\bin\Debug\EHR_AddIn.dll
+C:\Users\cbare\source\repos\EHR_AddIn\EHR_AddIn\bin\Debug\EHR_AddIn.pdb
+C:\Users\cbare\source\repos\EHR_AddIn\EHR_AddIn\bin\Debug\EHR_AddIn.dll.manifest
+C:\Users\cbare\source\repos\EHR_AddIn\EHR_AddIn\bin\Debug\EHR_AddIn.vsto
+C:\Users\cbare\source\repos\EHR_AddIn\EHR_AddIn\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+C:\Users\cbare\source\repos\EHR_AddIn\EHR_AddIn\obj\Debug\EHR_AddIn.csproj.CopyComplete
+C:\Users\cbare\source\repos\EHR_AddIn\EHR_AddIn\obj\Debug\EHR_AddIn.dll
+C:\Users\cbare\source\repos\EHR_AddIn\EHR_AddIn\obj\Debug\EHR_AddIn.pdb
